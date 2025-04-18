@@ -4,6 +4,8 @@ Landing Page desenvolvida como parte de uma estratégia inbound com foco em aqui
 
 O projeto une marketing, tecnologia e processos, com uma abordagem moderna baseada em IA e low-code, com o objetivo de criar ativos digitais que convertem desde o primeiro clique.
 
+Link: https://lp-ebook-capiva.vercel.app/
+
 ## 🎯 Objetivo
 
 - Criar uma estrutura de conversão para leads qualificados
