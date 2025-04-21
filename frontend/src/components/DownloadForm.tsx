@@ -99,9 +99,6 @@ export function DownloadForm() {
       <Button type="submit" className="w-full mt-6 bg-corporate-orange text-white hover:bg-corporate-orange/90">
         Baixar agora
       </Button>
-
-      // Força de commit para sincronizar com o GitHub
-      
       <p className="text-xs text-corporate-medium mt-4 text-center">
         Seus dados estão seguros e nunca serão compartilhados.
       </p>
