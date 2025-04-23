@@ -37,7 +37,7 @@ export function HeroSection() {
             <div className="bg-white rounded-lg shadow-2xl p-6 md:p-8 border border-corporate-lightGray">
               <div className="mb-6">
 <img
-  src="/ebook capiva.png"
+  src="/ebook capiva - hero.png"
   alt="E-book de Automação Operacional"
   className="w-full h-auto rounded"
 />
