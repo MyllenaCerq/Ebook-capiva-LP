@@ -19,8 +19,7 @@ Link: https://lp-ebook-capiva.vercel.app/
 - [x] **Vite + React** – para criação da LP
 - [x] **Vercel** – deploy rápido e contínuo
 - [x] **n8n** – automação do fluxo de dados
-- [x] **Google Sheets** – armazenamento temporário de leads
-- [ ] **HubSpot CRM** – integração futura para gestão de contatos
+- [x] **HubSpot CRM** – integração futura para gestão de contatos
 - [x] **ChatGPT + Lovable** – apoio no design, copy e estrutura
 
 ## 🔄 Como funciona o fluxo de aquisição
@@ -56,11 +55,9 @@ Acesse em: [http://localhost:5173](http://localhost:5173)
 - [x] Criar estrutura visual da LP com IA
 - [x] Publicar no Vercel
 - [x] Conectar formulário ao n8n
-- [x] Salvar leads no Google Sheets
 - [x] Criar redirecionamento para /obrigado
 - [ ] Automatizar envio do e-book por e-mail
-- [ ] Integrar com HubSpot CRM
-- [ ] Migrar dados do Google Sheets para Supabase
+- [x] Integrar com HubSpot CRM
 - [ ] Criar dashboard interno de leads
 
 ## 📚 Aprendizados
